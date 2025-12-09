@@ -30,7 +30,7 @@
 
 ### 方法二：自己编译
 ```bash
-git clone https://github.com/您的用户名/wifi-password-extractor.git
+git clone https://github.com/p0phday/wifi-password-extractor.git
 cd wifi-password-extractor
 
 # 安装必要的包
