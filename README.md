@@ -24,7 +24,7 @@
 ## 📥 获取方式
 
 ### 方法一：直接下载
-1. 在[发布页面](https://github.com/您的用户名/wifi-password-extractor/releases)下载编译好的程序
+1. 在[发布页面](https://github.com/p0phday/wifi-password-extractor/releases)下载编译好的程序
 2. 将`app_logo.ico`图标文件放在同一个文件夹里(可选)
 3. 右键选择"以管理员身份运行"
 
